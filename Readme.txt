@@ -1,6 +1,3 @@
-
-Name : Neha Soma
-Student ID : W1191127
 Matlab Version : 9.2.0.556344 (R2017a)
 
 Description of Problem: Write a program to predict housing price vs size using batch gradient descent.To implement a linear regression algorithm and use it with a real world dataset. The dataset contains a collection of real estate listings in San Luis Obispo county.
